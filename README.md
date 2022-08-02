@@ -1,5 +1,5 @@
 # HTML code
-``````
+```
 <div class="container">
 
       <div id="mian" class="wrapper">
@@ -17,11 +17,11 @@
       </div>
 
    </div>
-`````
+```
 
 #CSS code
 
-````
+```
 * {
    margin: 0;
    padding: 0;

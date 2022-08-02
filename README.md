@@ -1,4 +1,4 @@
-# HTML code
+## HTML code
 ```
 <div class="container">
 
@@ -19,7 +19,7 @@
    </div>
 ```
 
-#CSS code
+## CSS code
 
 ```
 * {
@@ -111,7 +111,7 @@ hr {
 
 ````
 
-#JS code
+## JS code
 
 ````
 

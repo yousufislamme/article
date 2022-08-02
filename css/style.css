@@ -49,9 +49,14 @@ hr {
    top: 0;
    border-radius: 0 0 10px 10px;
    border-bottom: 5px solid rgb(229, 149, 1);
+   transition: 0.5s cubic-bezier(0.075, 0.82, 0.165, 1);
 
 }
 
+.wrapper .buttons:hover {
+   border-bottom: 5px solid rgb(181, 123, 14);
+
+}
 
 .wrapper .btn {
    width: 30px;
